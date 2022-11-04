@@ -3,7 +3,7 @@
 ![GIF demo](data/robot_aspirateur.gif)
 
 ## About
-This project is a demonstration of the implementation of an vacuum agent based on the Belief Desire Intention (BDI) formalism with the A* algorithm in Python. It was made in collaboration with [Justin Aubin](https://github.com/Justin-Aubin) for a course in Artificial Intelligence at UQAC.
+This project is a demonstration of the implementation of a vacuum agent based on the Belief Desire Intention (BDI) formalism with the A* algorithm in Python. It was made in collaboration with [Justin Aubin](https://github.com/Justin-Aubin) for a course in Artificial Intelligence at UQAC.
 
 ## Options
 
